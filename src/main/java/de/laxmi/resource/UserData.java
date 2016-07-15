@@ -12,6 +12,6 @@ public class UserData {
 	//@RequestMapping(value="/register",method=RequestMethod.POST,consumes=MediaType.APPLICATION_JSON_VALUE)
 	@RequestMapping(value="/register")
 	public void regsitration() {
-		System.out.println("In the method is");
+		System.out.println("In the method is"); 
 	}
 }
